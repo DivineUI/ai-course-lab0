@@ -1,7 +1,7 @@
 # ai-course-lab0
 Course: Introduction to Artificial Intelligence
 Semester: Semester 3, 2026
-Student Name:** Divine Uwase Ingabire
+Student Name: Divine Uwase Ingabire
 Student ID: 69062028
 
 ## Description
