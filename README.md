@@ -1,8 +1,11 @@
-# ai-course-lab0
-Course: Introduction to Artificial Intelligence
-Semester: Semester 3, 2026
-Student Name: Divine Uwase Ingabire
+# Lab 0: Environment Setup & Python for AI Foundations
+Course: Introduction to AI  
+Student: Divine Uwase Ingabire  
 Student ID: 69062028
 
 ## Description
-This repository contains my lab submissions for the AI course, starting with Lab 0 which covers environment setup, Git basics, Google Colab, and Python for ML fundamentals.
+This repository contains all Lab 0 submissions including:
+environment_verification.txt
+colab_practice.ipynb
+lab0_exercises.ipynb
+AI Use Declaration form
